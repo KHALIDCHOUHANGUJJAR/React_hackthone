@@ -1,0 +1,100 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+ul {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.img6 {
+  width: 100vw;
+  padding: 20px;
+  border-radius: 30px;
+}
+.container2 {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  display: flex;
+}
+.container2 img {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  gap: 50px;
+  margin-bottom: 50px;
+}
+.slider-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.sliderimage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.sliderimage {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.slider-container {
+  max-width: 1200px; 
+  margin: 0 auto;
+}
+
+.cardfeature {
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.cardfeature img {
+  width: 100%;
+  height: 20vh;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.cardfeature h3 {
+  margin-top: 10px;
+  font-size: 1.25rem;
+  color: #333;
+}
+
+.cardfeature {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  width: 10%;
+}
+.cardfeature img {
+  width: 40%;
+  border-radius: 10px;
+}
+.cardpro img {
+  height: 10vh;
+}
+.img4 {
+  padding: 20px;
+  width: 100vw;
+  height: 50%;
+}
+.container4{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
